@@ -74,13 +74,11 @@ python3 main.py
 * `{previouscaption}` - Original Caption
 
 ### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html) 
+
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Ꮴᴀᴍᴘɪʀᴇ](https://t.me/KP51107)</b>  
-
-### Credits
-
-- Thanks To  [DKBOTx](https://github.com/DKBOTx)
+<b>✮ CREDITS ›› [DKBOTx](https://github.com/DKBOTx)</b> 
 
 ##
 
