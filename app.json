@@ -1,12 +1,13 @@
 {
-  "name": "DK BOTx FILE SHARE BOT",
+  "name": "FILE SHARE BOT",
   "description": "file sharing bot store posts and it can access by special links",
+  "logo": "https://telegra.ph/file/7c5223db4250cd8e07932.jpg",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/vloggerdeven/File-Share-Bot",
+  "repository": "https://github.com/TG-V4MP1R3/File-Store-Bot",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
