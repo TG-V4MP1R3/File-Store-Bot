@@ -78,6 +78,10 @@ python3 main.py
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Ꮴᴀᴍᴘɪʀᴇ](https://t.me/KP51107)</b>  
 
+### Credits
+
+- Thanks To  [DKBOTx](https://github.com/DKBOTx)
+
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
