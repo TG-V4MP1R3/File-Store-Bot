@@ -78,7 +78,7 @@ python3 main.py
 
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Ꮴᴀᴍᴘɪʀᴇ](https://t.me/KP51107)</b>  
-<b>✮ CREDITS ›› [DKBOTx](https://github.com/DKBOTx)</b> 
+<b>✮ 𝙲𝚁𝙴𝙳𝙸𝚃𝚉 ›› [DKBOTx](https://github.com/DKBOTx)</b> 
 
 ##
 
