@@ -77,8 +77,13 @@ python3 main.py
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html) 
 
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Ꮴᴀᴍᴘɪʀᴇ](https://t.me/KP51107)</b>  
-<b>✮ 𝙲𝚁𝙴𝙳𝙸𝚃𝚉 ›› [CodeXTeam](https://github.com/CodeXBotz)</b> 
+## 👨‍💻 Developers & Contributors 👨‍💻
+
+ [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
+----|
+[TG-V4MP1R3](https://github.com/TG-V4MP1R3)  | 
+Author: Developer, Base, Bug Fixes, Commits, Modules | 
+
 
 ##
 
