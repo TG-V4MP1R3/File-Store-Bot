@@ -77,7 +77,7 @@ python3 main.py
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html) 
 
 
-## 👨‍💻 Developers & Contributors 👨‍💻
+## Developers & Contributors👨‍💻
 
  [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
 ----|
