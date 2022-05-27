@@ -88,4 +88,4 @@ Author: Developer, Base, Bug Fixes, Commits, Modules |
 
 ##
 
-   **Star this Repo if you Liked it ⭐⭐⭐**
+   **Star this Repo if you Liked it⭐⭐⭐**
