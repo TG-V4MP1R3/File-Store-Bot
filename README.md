@@ -3,7 +3,7 @@
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
-Using Of This Bot Can Avoid Telegram Movies Copyright , Channel Ban😉
+Using Of This Bot Can Avoid Telegram Movies Copyright,Channel Ban😉
  
 ### Features
 - Fully customisable.
